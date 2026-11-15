@@ -1,0 +1,8 @@
+{
+  "name": "BranchLedger",
+  "description": "Branch staff In/Out attendance terminal and password-protected manager break analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
